@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Fun88tc Com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Fun88 <https://fun88tc.com/>`_ đăng nhập link chính hãng từ nhà cái uy tín top 1 Việt Nam. Tận hưởng trọn vẹn niềm vui cá cược tại Fun88tc, Fun88 TC. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 888 Lý Thường Kiệt, Phường 14, Quận 11, Hồ Chí Minh, Việt Nam
 
-   This project is under active development.
+Phone: 0998982589
 
-Contents
---------
+Email: admin@fun88tc.com
 
-.. toctree::
+Website: https://fun88tc.com/
 
-   usage
-   api
+#fun88, #fun_88, #fun88tc, #fun88_tc, #nhacaifun88, #fun88link, #linkvaofun88, #dangkyfun88, #fun88dangnhap, #taiappfun88, #khuyenmaifun88
